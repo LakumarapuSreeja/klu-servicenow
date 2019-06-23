@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="second table" max_length="40" name="x_331842_klu_second_table" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Branch" max_length="40" name="branch" type="string"/>
+        <element label="Contact number" max_length="40" name="contact_number" type="string"/>
+        <element label="Name of the student" max_length="40" name="name_of_the_student" type="string"/>
+        <element label="Research Group" max_length="40" name="research_group" type="string"/>
+        <element label="Roll number" max_length="40" name="roll_number" type="string"/>
+    </element>
+</database>

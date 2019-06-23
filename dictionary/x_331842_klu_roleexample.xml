@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="roleexample" max_length="40" name="x_331842_klu_roleexample" type="collection">
+        <element label="Address for communication" max_length="40" name="address_for_communication" type="string"/>
+        <element label="Branch" max_length="40" name="branch" type="string"/>
+        <element label="Mobile" max_length="40" name="mobile" type="string"/>
+        <element label="Name of the student" max_length="40" name="name_of_the_student" type="string"/>
+        <element label="Reasearch Group" max_length="40" name="reasearch_group" type="string"/>
+        <element label="Roll Number" max_length="40" name="roll_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email Address" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

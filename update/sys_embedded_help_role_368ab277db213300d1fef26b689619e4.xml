@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_331842_klu.roleexample_user" name="x_331842_klu.roleexample_user">b68ab2f3db213300d1fef26b68961916</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-28 09:33:43</sys_created_on>
+        <sys_id>368ab277db213300d1fef26b689619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b68ab2f3db213300d1fef26b68961916</sys_name>
+        <sys_package display_value="klu" source="x_331842_klu">a6468f17db113300d1fef26b6896191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="klu">a6468f17db113300d1fef26b6896191d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_368ab277db213300d1fef26b689619e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-28 09:33:43</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

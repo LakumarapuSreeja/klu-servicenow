@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="eg1" max_length="40" name="x_331842_klu_eg1" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address for communication" label="Address for communication" max_length="40" name="u_address_for_communication" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Branch" label="Branch" max_length="40" name="u_branch" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email Address" label="Email Address" max_length="40" name="u_email_address" type="string"/>
+        <element attributes="import_attribute_name=Mobile" label="Mobile" max_length="40" name="u_mobile" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name of the student" label="Name of the student" max_length="40" name="u_name_of_the_student" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Research Group" label="Research Group" max_length="40" name="u_research_group" type="string"/>
+        <element attributes="import_attribute_name=Roll Number" label="Roll Number" max_length="40" name="u_roll_number" type="float"/>
+    </element>
+</database>

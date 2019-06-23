@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Family details" section_id="17facb9bdb113300d1fef26b6896194d" sys_domain="global" table="x_331842_klu_first" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_7</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-14 11:18:27</sys_created_on>
+            <sys_id>9c4ccbdbdb113300d1fef26b689619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Family details" display_value="Family details" name="x_331842_klu_first" sys_domain="global" view="Default view">17facb9bdb113300d1fef26b6896194d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-14 11:18:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_6</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-14 11:18:27</sys_created_on>
+            <sys_id>104ccbdbdb113300d1fef26b689619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Family details" display_value="Family details" name="x_331842_klu_first" sys_domain="global" view="Default view">17facb9bdb113300d1fef26b6896194d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-14 11:18:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Family details</caption>
+            <header>false</header>
+            <name>x_331842_klu_first</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-14 11:12:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17facb9bdb113300d1fef26b6896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Family details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="klu" source="x_331842_klu">a6468f17db113300d1fef26b6896191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="klu">a6468f17db113300d1fef26b6896191d</sys_scope>
+            <sys_update_name>sys_ui_section_17facb9bdb113300d1fef26b6896194d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-14 11:12:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

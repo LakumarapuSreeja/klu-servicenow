@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_7" label="Mother name" language="en" table="x_331842_klu_first">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_7</element>
+            <help/>
+            <hint/>
+            <label>Mother name</label>
+            <language>en</language>
+            <name>x_331842_klu_first</name>
+            <plural>Mother names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-14 11:05:42</sys_created_on>
+            <sys_id>a9594b5bdb113300d1fef26b6896194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mother name</sys_name>
+            <sys_package display_value="klu" source="x_331842_klu">a6468f17db113300d1fef26b6896191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="klu">a6468f17db113300d1fef26b6896191d</sys_scope>
+            <sys_update_name>sys_documentation_x_331842_klu_first_u_string_7_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-14 11:05:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

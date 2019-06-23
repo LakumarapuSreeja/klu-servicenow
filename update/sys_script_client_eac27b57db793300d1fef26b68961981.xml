@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>name_of_the_student</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>ex5</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	var x=new GlideAjax('getEmailAddress');
+	x.addParam('sysparm_name','batch1Example');
+	x.addParam('xyz',g_form.getValue("name_of_the_student"));
+	x.getXML(callEmail);
+	function callEmail(response)
+	{
+		var y=response.responseXML.documentElement.getAttribute("answer");
+		g_form.setValue('u_string_1',y);
+	}
+
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-08 10:44:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eac27b57db793300d1fef26b68961981</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ex5</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="klu" source="x_331842_klu">a6468f17db113300d1fef26b6896191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="klu">a6468f17db113300d1fef26b6896191d</sys_scope>
+        <sys_update_name>sys_script_client_eac27b57db793300d1fef26b68961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-08 10:50:59</sys_updated_on>
+        <table>x_331842_klu_roleexample</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

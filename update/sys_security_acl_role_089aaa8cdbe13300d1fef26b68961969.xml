@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-16 16:46:41</sys_created_on>
+        <sys_id>089aaa8cdbe13300d1fef26b68961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_331842_klu_helpingfor.x_331842_klu.helpingfor_user</sys_name>
+        <sys_package display_value="klu" source="x_331842_klu">a6468f17db113300d1fef26b6896191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="klu">a6468f17db113300d1fef26b6896191d</sys_scope>
+        <sys_security_acl display_value="x_331842_klu_helpingfor">4c9aaa8cdbe13300d1fef26b68961966</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_089aaa8cdbe13300d1fef26b68961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-16 16:46:41</sys_updated_on>
+        <sys_user_role display_value="x_331842_klu.helpingfor_user" name="x_331842_klu.helpingfor_user">778aa28cdbe13300d1fef26b6896193d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

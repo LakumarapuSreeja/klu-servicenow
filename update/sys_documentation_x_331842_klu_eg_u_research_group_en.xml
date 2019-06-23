@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_research_group" label="Research Group" language="en" table="x_331842_klu_eg">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_research_group</element>
+            <help/>
+            <hint/>
+            <label>Research Group</label>
+            <language>en</language>
+            <name>x_331842_klu_eg</name>
+            <plural>Research Groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-10 15:53:37</sys_created_on>
+            <sys_id>d62e8f08db42b300d1fef26b689619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Research Group</sys_name>
+            <sys_package display_value="klu" source="x_331842_klu">a6468f17db113300d1fef26b6896191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="klu">a6468f17db113300d1fef26b6896191d</sys_scope>
+            <sys_update_name>sys_documentation_x_331842_klu_eg_u_research_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-10 15:53:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

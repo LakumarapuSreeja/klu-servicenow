@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Leave Application" max_length="40" name="x_331842_klu_leave_application" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date of leave" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element label="Adjusted to" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="email" max_length="40" name="u_string_3" type="string"/>
+    </element>
+</database>

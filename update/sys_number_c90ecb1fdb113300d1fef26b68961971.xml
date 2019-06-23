@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_331842_klu_first">x_331842_klu_first</category>
+        <maximum_digits>5</maximum_digits>
+        <number>10000</number>
+        <prefix>klu</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-14 11:26:09</sys_created_on>
+        <sys_id>c90ecb1fdb113300d1fef26b68961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>klu</sys_name>
+        <sys_package display_value="klu" source="x_331842_klu">a6468f17db113300d1fef26b6896191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="klu">a6468f17db113300d1fef26b6896191d</sys_scope>
+        <sys_update_name>sys_number_c90ecb1fdb113300d1fef26b68961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-14 11:26:09</sys_updated_on>
+    </sys_number>
+</record_update>

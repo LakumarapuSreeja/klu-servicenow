@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="first" max_length="40" name="x_331842_klu_first" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="number" max_length="40" name="u_integer_1" type="integer"/>
+        <element choice="1" label="Id" max_length="40" name="u_integer_3" type="integer">
+            <choice/>
+        </element>
+        <element label="salary" max_length="40" name="u_integer_4" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="name" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="designation" max_length="40" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Father name" max_length="40" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mother name" max_length="40" name="u_string_7" type="string"/>
+    </element>
+</database>
